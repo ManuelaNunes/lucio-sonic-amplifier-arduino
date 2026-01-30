@@ -61,10 +61,9 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 - [/docs](./docs): Monografia, Fluxogramas e Diagramas de Blocos.
 - [/media](./media): Galeria de fotos do protótipo e vídeos de demonstração.
 
-## 📷 Demonstração
 ## 📺 Demonstração
 
-[![Assista o vídeo do Protótipo](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/photos/17_Lucio_Gabinete_Montado_Sistema_Incluso.jpeg)](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/blob/main/media/videos/38_Lucio_Final_03.mp4)
+[![Assista o vídeo do Protótipo](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/photos/17_Lucio_Gabinete_Montado_Sistema_Incluso.jpeg)](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/videos/38_Lucio_Final_03.mp4)
 
 > **Clique na imagem acima** para abrir o vídeo de demonstração das funcionalidades (Som e Luz).
 
