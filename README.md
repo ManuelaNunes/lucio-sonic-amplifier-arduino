@@ -10,7 +10,7 @@ Desenvolver um dispositivo de entretenimento funcional que demonstre a viabilida
 - **Microcontrolador:** Arduino Mega 2560
 - **Linguagem:** C/C++ (Arduino Framework)
 - **Bibliotecas:** Adafruit_NeoPixel, DFRobotDFPlayerMini
-- **Design de Hardware:** KiCad (Esquemático e PCB)
+- **Design de Hardware:** KiCad (Esquemático)
 - **Técnicas de Software:** Correção Gama 2.2, Sincronização por BPM, Pulso Senoidal.
 
 ## ⚙️ Funcionamento
@@ -51,7 +51,7 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 
 ## ▶️ Como executar
 1. **Cartão SD:** Carregue as músicas no cartão micro SD conforme o padrão do DFPlayer.
-2. **Hardware:** Monte o circuito conforme o esquemático na pasta [/hardware/esquema_eletrico](./hardware). Atente-se às portas seriais (Serial1 e Serial2 do Mega).
+2. **Hardware:** Monte o circuito conforme o esquemático na pasta [/hardware/esquema_eletrico](./hardware/esquema_eletrico.svg). Atente-se às portas seriais (Serial1 e Serial2 do Mega).
 3. **Software:** - Instale as bibliotecas `Adafruit_NeoPixel` e `DFRobotDFPlayerMini` na sua Arduino IDE.
    - Carregue o arquivo [/src/LUCIO_PROJECT_FINAL.ino](./src) no seu Arduino Mega.
 
@@ -62,7 +62,11 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 - [/media](./media): Galeria de fotos do protótipo e vídeos de demonstração.
 
 ## 📷 Demonstração
-https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/assets/media/videos/38_Lucio_Final_03.mp4
+## 📺 Demonstração
+
+[![Assista o vídeo do Protótipo](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/photos/17_Lucio_Gabinete_Montado_Sistema_Incluso.jpeg)](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/blob/main/media/videos/38_Lucio_Final_03.mp4)
+
+> **Clique na imagem acima** para abrir o vídeo de demonstração das funcionalidades (Som e Luz).
 
 ## 📄 Documentação
 O arquivo completo do Trabalho de Conclusão de Curso (TCC), contendo a fundamentação teórica e os testes de campo, está disponível na pasta `/docs`.
@@ -71,4 +75,4 @@ O arquivo completo do Trabalho de Conclusão de Curso (TCC), contendo a fundamen
 **Manuela Nunes Simião** – Bacharel em Engenharia de Computação (UFPA).
 > Este projeto foi desenvolvido em processo de superação e luto, inspirado pelo meu gatinho Lucinho e dedicado à memória de meu pai, Francisco de Souza Simião, que queria muito ver esse trabalho concluído.
 
-[LinkedIn](www.linkedin.com/in/manuelanunessimiao)
+[LinkedIn](https://www.linkedin.com/in/manuelanunessimiao)
