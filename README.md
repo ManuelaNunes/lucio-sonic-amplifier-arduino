@@ -1,4 +1,4 @@
-[https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/blob/main/media/photos/lucio.png]
+![Protótipo Lúcio](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/photos/lucio.png)
 # Pistola Sônica Musical (Inspirada no Lúcio - Overwatch)
 
 Protótipo de um sistema embarcado que integra iluminação LED endereçável e reprodução de áudio sincronizada. O projeto simula as mecânicas de "cura" e "velocidade" do personagem Lúcio, utilizando hardware acessível para criar um dispositivo de alta fidelidade visual e sonora para aplicações em Wearable Tech e Cosplay.
@@ -62,7 +62,7 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 - [/media](./media): Galeria de fotos do protótipo e vídeos de demonstração.
 
 ## 📷 Demonstração
-[https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/blob/main/media/videos/38_Lucio_Final_03.mp4]
+https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/assets/media/videos/38_Lucio_Final_03.mp4
 
 ## 📄 Documentação
 O arquivo completo do Trabalho de Conclusão de Curso (TCC), contendo a fundamentação teórica e os testes de campo, está disponível na pasta `/docs`.
