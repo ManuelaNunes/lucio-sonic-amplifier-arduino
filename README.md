@@ -76,4 +76,4 @@ O arquivo completo do Trabalho de Conclusão de Curso (TCC), contendo a fundamen
 
 [LinkedIn](https://www.linkedin.com/in/manuelanunessimiao)
 
-![Lúcio](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/videos/lucio.gif)
+![Lúcio](https://github.com/ManuelaNunes/lucio-sonic-amplifier-arduino/raw/main/media/videos/Lucio.gif)
