@@ -1,3 +1,4 @@
+[media/photos/lucio.png]
 # Pistola Sônica Musical (Inspirada no Lúcio - Overwatch)
 
 Protótipo de um sistema embarcado que integra iluminação LED endereçável e reprodução de áudio sincronizada. O projeto simula as mecânicas de "cura" e "velocidade" do personagem Lúcio, utilizando hardware acessível para criar um dispositivo de alta fidelidade visual e sonora para aplicações em Wearable Tech e Cosplay.
@@ -22,10 +23,10 @@ O sistema opera através de uma máquina de estados que alterna entre dois modos
 Abaixo estão os diagramas que detalham a lógica de estados e a conexão dos componentes.
 
 ### Fluxograma de Software (Lógica de Prioridades)
-![Fluxograma de Software](./docs/fluxograma_pistola.svg)
+![Fluxograma de Software do Funcionamento da Pistola](./docs/fluxograma_pistola.svg)
 
 ### Diagrama de Blocos (Hardware)
-![Diagrama de Blocos](./docs/diagrama_blocos.svg)
+![Diagrama de Blocos da Divisão de Energização](./docs/diagrama_blocos.svg)
 
 ## 🔌 Hardware e Conectividade
 
@@ -50,9 +51,9 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 
 ## ▶️ Como executar
 1. **Cartão SD:** Carregue as músicas no cartão micro SD conforme o padrão do DFPlayer.
-2. **Hardware:** Monte o circuito conforme o esquemático na pasta [/hardware](./hardware). Atente-se às portas seriais (Serial1 e Serial2 do Mega).
+2. **Hardware:** Monte o circuito conforme o esquemático na pasta [/hardware/esquema_eletrico](./hardware). Atente-se às portas seriais (Serial1 e Serial2 do Mega).
 3. **Software:** - Instale as bibliotecas `Adafruit_NeoPixel` e `DFRobotDFPlayerMini` na sua Arduino IDE.
-   - Carregue o arquivo [/src/pistola_sonica.ino](./src) no seu Arduino Mega.
+   - Carregue o arquivo [/src/LUCIO_PROJECT_FINAL.ino](./src) no seu Arduino Mega.
 
 ## 📁 Estrutura do Repositório
 - [/src](./src): Código-fonte (Firmware).
@@ -61,13 +62,13 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 - [/media](./media): Galeria de fotos do protótipo e vídeos de demonstração.
 
 ## 📷 Demonstração
-*(Dica: Arraste uma foto da pistola pronta para cá para ela aparecer no topo!)*
+[media/videos/38 - Lúcio - Protótipo completo e encapado em funcionamento - vídeo.mp4]
 
 ## 📄 Documentação
 O arquivo completo do Trabalho de Conclusão de Curso (TCC), contendo a fundamentação teórica e os testes de campo, está disponível na pasta `/docs`.
 
 ## 👩‍💻 Autora
 **Manuela Nunes Simião** – Bacharel em Engenharia de Computação (UFPA).
-> Este projeto foi desenvolvido em processo de superação e luto, inspirado pelo meu gatinho Lucinho e dedicado à memória de meu pai, Francisco de Souza Simião.
+> Este projeto foi desenvolvido em processo de superação e luto, inspirado pelo meu gatinho Lucinho e dedicado à memória de meu pai, Francisco de Souza Simião, que queria muito ver esse trabalho concluído.
 
 [LinkedIn](www.linkedin.com/in/manuelanunessimiao)
