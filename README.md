@@ -71,7 +71,7 @@ O sistema utiliza um Arduino Mega 2560 para gerenciar múltiplas comunicações 
 O arquivo completo do Trabalho de Conclusão de Curso (TCC), contendo a fundamentação teórica e os testes de campo, está disponível na pasta `/docs`.
 
 ## 👩‍💻 Autora
-**Manuela Nunes Simião** – Bacharel em Engenharia de Computação (UFPA).
+**Manuela Nunes Simião** – Bacharelanda em Engenharia de Computação (UFPA).
 > Este projeto foi desenvolvido em processo de superação e luto, inspirado pelo meu gatinho Lucinho e dedicado à memória de meu pai, Francisco de Souza Simião, que queria muito ver esse trabalho concluído.
 
 [LinkedIn](https://www.linkedin.com/in/manuelanunessimiao)
